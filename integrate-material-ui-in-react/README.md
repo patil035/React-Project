@@ -16,8 +16,10 @@ http://localhost:3000/
 
 # install materail UI
 
-// with npm
+# with npm
+
 npm install @material-ui/core
 
-// with yarn
+# with yarn
+
 yarn add @material-ui/core
